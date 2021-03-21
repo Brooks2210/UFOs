@@ -4,7 +4,7 @@
 Working with a client named “Dana” we were tasked with helping her build a website that could search through a large data set of UFO sightings. The website needed to be dynamic and appeal to individuals visiting the site.
 
 ### Resources
-** JavaScript, HTML
+** JavaScript, HTML <br>
 ** Using VSCode
 
 ## Results
